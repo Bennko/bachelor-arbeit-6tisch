@@ -1,3 +1,4 @@
-[submodule "latex-template"]
-	path = latex-template
-	url = https://collaborating.tuhh.de/e-4/Student-Theses/thesis-template
+[submodule "latex-thesis-template"]
+	path = latex-thesis-template
+	url = ../templates/latex-thesis-template
+	branch = master
