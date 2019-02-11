@@ -1,0 +1,4 @@
+[submodule "latex-thesis-template"]
+	path = latex-thesis-template
+	url = ../templates/latex-thesis-template.git
+	branch = master
