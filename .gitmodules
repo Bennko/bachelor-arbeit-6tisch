@@ -1,3 +1,3 @@
-[submodule "latex-thesis-template"]
-	path = latex-thesis-template
-	url = https://collaborating.tuhh.de/e-4/public/latex-thesis-template.git
+[submodule "thesis-template"]
+	path = thesis-template
+	url = https://github.com/ComNetsHH/thesis-template.git
