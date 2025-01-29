@@ -1,5 +1,5 @@
 # Thesis
-- Student: *name*
+- Student: Benjamin Lih-Hsiang Ko
 - Title: *tbd on Kick-off*
 - Kick-off: *date*
 - Official start: *often same as kick-off*
