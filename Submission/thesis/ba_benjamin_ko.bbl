@@ -1,0 +1,1083 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{IEEE802}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Std 802.15.4-2020 (Revision of IEEE Std 802.15.4-2015)}
+      \field{title}{IEEE Standard for Low-Rate Wireless Networks}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 800}
+      \range{pages}{800}
+      \verb{doi}
+      \verb 10.1109/IEEESTD.2020.9144691
+      \endverb
+      \keyw{IEEE Standards;Wireless networks;Wireless persaonal area networks;Radio frequency;Personal area networks;Ad hoc networks;Low power electronics;ad hoc network;IEEE 802.15.4;low data rate;low power;LR-WPAN;mobility;PAN;personal area network;radio frequency;RF;short range;wireless;wireless network;wireless personal area network;WPAN}
+    \endentry
+    \entry{TSCH}{article}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Std 802.15.4e-2012 (Amendment to IEEE Std 802.15.4-2011)}
+      \field{title}{IEEE Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment 1: MAC sublayer}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 225}
+      \range{pages}{225}
+      \verb{doi}
+      \verb 10.1109/IEEESTD.2012.6185525
+      \endverb
+      \keyw{IEEE standards;AC motors;Local area networks;Metropolitan area networks;Personal area networks;Wireless communication;Radiofrequency identification;asynchronous multi-channel adaptation (AMCA);deterministic and asynchronous multi-channel adaptation (AMCA);deterministic and synchronous multichannel extension (DSME);enhanced beacon request (EBR);enhancements for security;fast association (FastA);IEEE 802.15.4;lEEE 802.15.4e;low energy;low latency deterministic networks (LLDN);MAC performance metrics (metrics);RFID Blink;timeslotted channel hopping (TSCH)}
+    \endentry
+    \entry{TSCHIsDeterministic}{article}{}
+      \name{author}{6}{}{%
+        {{hash=98737bb9a5260c252d756caf93b6bcbe}{%
+           family={Vilajosana},
+           familyi={V\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=dbb923b2eb3740d28592b75b64ac32c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=2f0c542ec070fc0a4dad4da645ef0d06}{%
+           family={Chraim},
+           familyi={C\bibinitperiod},
+           given={Fabien},
+           giveni={F\bibinitperiod}}}%
+        {{hash=11301474a5d5a25814d36750eff6f8f9}{%
+           family={Watteyne},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a2d991075340d14294495f5d03d8324a}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Tengfei},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8c62660c7ee26d6864f6e8c5b73dd77e}{%
+           family={Pister},
+           familyi={P\bibinitperiod},
+           given={Kristofer\bibnamedelimb S.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fa989eb1bd635735bb0f90779aa2e9c}
+      \strng{fullhash}{e8f17c39fc68d301ea2f284f330518ba}
+      \strng{bibnamehash}{8fa989eb1bd635735bb0f90779aa2e9c}
+      \strng{authorbibnamehash}{8fa989eb1bd635735bb0f90779aa2e9c}
+      \strng{authornamehash}{8fa989eb1bd635735bb0f90779aa2e9c}
+      \strng{authorfullhash}{e8f17c39fc68d301ea2f284f330518ba}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{number}{2}
+      \field{title}{A Realistic Energy Consumption Model for TSCH Networks}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{482\bibrangedash 489}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/JSEN.2013.2285411
+      \endverb
+      \keyw{Energy consumption;Current measurement;Load modeling;Receivers;Schedules;Mathematical model;Radio transmitters;IEEE802.15.4e;synchronization;wireless sensor networks;duty cycle;energy consumption;TSCH}
+    \endentry
+    \entry{RFC9030}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e36e172ff4469a59f14eb455fd2284c9}{%
+           family={Thubert},
+           familyi={T\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{e36e172ff4469a59f14eb455fd2284c9}
+      \strng{fullhash}{e36e172ff4469a59f14eb455fd2284c9}
+      \strng{bibnamehash}{e36e172ff4469a59f14eb455fd2284c9}
+      \strng{authorbibnamehash}{e36e172ff4469a59f14eb455fd2284c9}
+      \strng{authornamehash}{e36e172ff4469a59f14eb455fd2284c9}
+      \strng{authorfullhash}{e36e172ff4469a59f14eb455fd2284c9}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document describes a network architecture that provides low-latency, low-jitter, and high-reliability packet delivery. It combines a high-speed powered backbone and subnetworks using IEEE 802.15.4 time-slotted channel hopping (TSCH) to meet the requirements of low-power wireless deterministic applications.}
+      \field{howpublished}{RFC 9030}
+      \field{month}{5}
+      \field{number}{9030}
+      \field{pagetotal}{57}
+      \field{series}{Request for Comments}
+      \field{title}{{An Architecture for IPv6 over the Time-Slotted Channel Hopping Mode of IEEE 802.15.4 (6TiSCH)}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.17487/RFC9030
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc9030
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc9030
+      \endverb
+    \endentry
+    \entry{RFC6282}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=e36e172ff4469a59f14eb455fd2284c9}{%
+           family={Thubert},
+           familyi={T\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6cfb5d2608616bce21708f853f01106e}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{6b1983a5905f15d5e15c82320bcaaf8d}
+      \strng{fullhash}{6b1983a5905f15d5e15c82320bcaaf8d}
+      \strng{bibnamehash}{6b1983a5905f15d5e15c82320bcaaf8d}
+      \strng{authorbibnamehash}{6b1983a5905f15d5e15c82320bcaaf8d}
+      \strng{authornamehash}{6b1983a5905f15d5e15c82320bcaaf8d}
+      \strng{authorfullhash}{6b1983a5905f15d5e15c82320bcaaf8d}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document updates RFC 4944, "Transmission of IPv6 Packets over IEEE 802.15.4 Networks". This document specifies an IPv6 header compression format for IPv6 packet delivery in Low Power Wireless Personal Area Networks (6LoWPANs). The compression format relies on shared context to allow compression of arbitrary prefixes. How the information is maintained in that shared context is out of scope. This document specifies compression of multicast addresses and a framework for compressing next headers. UDP header compression is specified within this framework. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 6282}
+      \field{month}{9}
+      \field{number}{6282}
+      \field{pagetotal}{24}
+      \field{series}{Request for Comments}
+      \field{title}{{Compression Format for IPv6 Datagrams over IEEE 802.15.4-Based Networks}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.17487/RFC6282
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc6282
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc6282
+      \endverb
+    \endentry
+    \entry{RFC4944}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=68ad5b70303dcaede43432c52682d2fe}{%
+           family={Montenegro},
+           familyi={M\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6cfb5d2608616bce21708f853f01106e}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=476b9e41520047f68ef13e32a0872165}{%
+           family={Culler},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7d0d896a0aaf15f81f83204d874eb6c9}{%
+           family={Kushalnagar},
+           familyi={K\bibinitperiod},
+           given={Nandakishore},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{2238fee76d5d50f8c9b0d6c741420317}
+      \strng{fullhash}{242375d1b93d85b8020b28ffd9aed06f}
+      \strng{bibnamehash}{2238fee76d5d50f8c9b0d6c741420317}
+      \strng{authorbibnamehash}{2238fee76d5d50f8c9b0d6c741420317}
+      \strng{authornamehash}{2238fee76d5d50f8c9b0d6c741420317}
+      \strng{authorfullhash}{242375d1b93d85b8020b28ffd9aed06f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document describes the frame format for transmission of IPv6 packets and the method of forming IPv6 link-local addresses and statelessly autoconfigured addresses on IEEE 802.15.4 networks. Additional specifications include a simple header compression scheme using shared context and provisions for packet delivery in IEEE 802.15.4 meshes. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 4944}
+      \field{month}{9}
+      \field{number}{4944}
+      \field{pagetotal}{30}
+      \field{series}{Request for Comments}
+      \field{title}{{Transmission of IPv6 Packets over IEEE 802.15.4 Networks}}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.17487/RFC4944
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc4944
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc4944
+      \endverb
+    \endentry
+    \entry{RFC6551}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=73f274508816b0d33916d38a56253488}{%
+           family={Barthel},
+           familyi={B\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bcdb48933c37ac3d8467241319494246}{%
+           family={Vasseur},
+           familyi={V\bibinitperiod},
+           given={JP},
+           giveni={J\bibinitperiod}}}%
+        {{hash=831771a889ebe2f106a875862e65e962}{%
+           family={Pister},
+           familyi={P\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod}}}%
+        {{hash=60429923bce01e28d3ce56e49461cc19}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Mijeom},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5f5abe1b119cfd1f9d040711a407fbd6}{%
+           family={Dejean},
+           familyi={D\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{5858c6d5c6d8890ff590b16782fe008a}
+      \strng{fullhash}{ae78bf5532f49456ac808c88a0d71bc6}
+      \strng{bibnamehash}{5858c6d5c6d8890ff590b16782fe008a}
+      \strng{authorbibnamehash}{5858c6d5c6d8890ff590b16782fe008a}
+      \strng{authornamehash}{5858c6d5c6d8890ff590b16782fe008a}
+      \strng{authorfullhash}{ae78bf5532f49456ac808c88a0d71bc6}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Low-Power and Lossy Networks (LLNs) have unique characteristics compared with traditional wired and ad hoc networks that require the specification of new routing metrics and constraints. By contrast, with typical Interior Gateway Protocol (IGP) routing metrics using hop counts or link metrics, this document specifies a set of link and node routing metrics and constraints suitable to LLNs to be used by the Routing Protocol for Low-Power and Lossy Networks (RPL). [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 6551}
+      \field{month}{3}
+      \field{number}{6551}
+      \field{pagetotal}{30}
+      \field{series}{Request for Comments}
+      \field{title}{{Routing Metrics Used for Path Calculation in Low-Power and Lossy Networks}}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.17487/RFC6551
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc6551
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc6551
+      \endverb
+    \endentry
+    \entry{rpldodag}{}{}
+      \name{author}{5}{}{%
+        {{hash=d8187b769fc5a3c21db25a9487e24140}{%
+           family={Suhail},
+           familyi={S\bibinitperiod},
+           given={Sabah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=476b8c865a1d9f2bdd904aed43273401}{%
+           family={Abdellatif},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=da89d5c2aacce37de230316028c5717e}{%
+           family={Pandey},
+           familyi={P\bibinitperiod},
+           given={Shashi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c76eb074e762aad048686d2115f66f1d}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Abid},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1383f5ef4e6c3639dc82c6aa8af308d7}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Choong\bibnamedelima Seon},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{46f05f789be76feea1d4797631a53682}
+      \strng{fullhash}{6a2ca94e29c731f7fcbca013f4468319}
+      \strng{bibnamehash}{46f05f789be76feea1d4797631a53682}
+      \strng{authorbibnamehash}{46f05f789be76feea1d4797631a53682}
+      \strng{authornamehash}{46f05f789be76feea1d4797631a53682}
+      \strng{authorfullhash}{6a2ca94e29c731f7fcbca013f4468319}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Provenance-enabled Packet Path Tracing in the RPL-based Internet of Things}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.48550/arXiv.1811.06143
+      \endverb
+    \endentry
+    \entry{RFC8480}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=dbb923b2eb3740d28592b75b64ac32c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=98737bb9a5260c252d756caf93b6bcbe}{%
+           family={Vilajosana},
+           familyi={V\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=11301474a5d5a25814d36750eff6f8f9}{%
+           family={Watteyne},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{5287914d3bfee39ffa46b0680c61255b}
+      \strng{fullhash}{5287914d3bfee39ffa46b0680c61255b}
+      \strng{bibnamehash}{5287914d3bfee39ffa46b0680c61255b}
+      \strng{authorbibnamehash}{5287914d3bfee39ffa46b0680c61255b}
+      \strng{authornamehash}{5287914d3bfee39ffa46b0680c61255b}
+      \strng{authorfullhash}{5287914d3bfee39ffa46b0680c61255b}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document defines the "IPv6 over the TSCH mode of IEEE 802.15.4e" (6TiSCH) Operation Sublayer (6top) Protocol (6P), which enables distributed scheduling in 6TiSCH networks. 6P allows neighbor nodes to add/delete Time-Slotted Channel Hopping (TSCH) cells to/on one another. 6P is part of the 6TiSCH Operation Sublayer (6top), the layer just above the IEEE Std 802.15.4 TSCH Medium Access Control layer. 6top is composed of one or more Scheduling Functions (SFs) and the 6top Protocol defined in this document. A 6top SF decides when to add/delete cells, and it triggers 6P Transactions. The definition of SFs is out of scope for this document; however, this document provides the requirements for an SF.}
+      \field{howpublished}{RFC 8480}
+      \field{month}{11}
+      \field{number}{8480}
+      \field{pagetotal}{50}
+      \field{series}{Request for Comments}
+      \field{title}{{6TiSCH Operation Sublayer (6top) Protocol (6P)}}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.17487/RFC8480
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc8480
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc8480
+      \endverb
+    \endentry
+    \entry{sixpImplementationContiki}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6f41b4b5fd85b1dce8cac566be2c8782}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Yasuyuki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=145f05e5faeb4eef4e7f20a091511d30}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Toshio},
+           giveni={T\bibinitperiod}}}%
+        {{hash=74cd46247d9b0ca8d09d6d2f1b37046a}{%
+           family={Teraoka},
+           familyi={T\bibinitperiod},
+           given={Fumio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{005ef21933ff8acff5e2e8d572824670}
+      \strng{fullhash}{005ef21933ff8acff5e2e8d572824670}
+      \strng{bibnamehash}{005ef21933ff8acff5e2e8d572824670}
+      \strng{authorbibnamehash}{005ef21933ff8acff5e2e8d572824670}
+      \strng{authornamehash}{005ef21933ff8acff5e2e8d572824670}
+      \strng{authorfullhash}{005ef21933ff8acff5e2e8d572824670}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Information Processing}
+      \field{title}{6TiSCH Scheduling Function Design Suite founded on Contiki-NG}
+      \field{volume}{30}
+      \field{year}{2022}
+      \field{pages}{669\bibrangedash 678}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.2197/ipsjjip.30.669
+      \endverb
+    \endentry
+    \entry{sixp-add-picture}{article}{}
+      \name{author}{4}{}{%
+        {{hash=52902f3a50e1a735f1f1a560de677570}{%
+           family={Hauweele},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c27b90db215a7ab7772503a419d8b575}{%
+           family={Koutsiamanis},
+           familyi={K\bibinitperiod},
+           given={Remous-Aris},
+           giveni={R\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=1a824f8cd2ea11fb196ecf7a255cd6bc}{%
+           family={Quoitin},
+           familyi={Q\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=78d2d7e3f528f564fe2b19ae3d06a802}{%
+           family={Papadopoulos},
+           familyi={P\bibinitperiod},
+           given={Georgios\bibnamedelima Z.},
+           giveni={G\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{fullhash}{56d21f8f056186f78593bae57fa70ae9}
+      \strng{bibnamehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{authorbibnamehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{authornamehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{authorfullhash}{56d21f8f056186f78593bae57fa70ae9}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Signal Processing Systems}
+      \field{month}{01}
+      \field{title}{{Thorough Performance Evaluation and Analysis of the 6TiSCH Minimal Scheduling Function (MSF)}}
+      \field{volume}{94}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1007/s11265-021-01668-w
+      \endverb
+    \endentry
+    \entry{RFC9033ForMSF}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=a2d991075340d14294495f5d03d8324a}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Tengfei},
+           giveni={T\bibinitperiod}}}%
+        {{hash=52f9b22da9976e0b2d75b259a50f8f1f}{%
+           family={Vučinić},
+           familyi={V\bibinitperiod},
+           given={Mališa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=98737bb9a5260c252d756caf93b6bcbe}{%
+           family={Vilajosana},
+           familyi={V\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=38b563e45055b98afe1569d76e88dc59}{%
+           family={Duquennoy},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a734a512ef221753a2c920afc1dbaf00}{%
+           family={Dujovne},
+           familyi={D\bibinitperiod},
+           given={Diego\bibnamedelima Roberto},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{7c5e213d722f1b61bf8f63b0dab07d07}
+      \strng{fullhash}{ff8c26b7448a4e3e9efd58130e4af7a2}
+      \strng{bibnamehash}{7c5e213d722f1b61bf8f63b0dab07d07}
+      \strng{authorbibnamehash}{7c5e213d722f1b61bf8f63b0dab07d07}
+      \strng{authornamehash}{7c5e213d722f1b61bf8f63b0dab07d07}
+      \strng{authorfullhash}{ff8c26b7448a4e3e9efd58130e4af7a2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This specification defines the "IPv6 over the TSCH mode of IEEE 802.15.4" (6TiSCH) Minimal Scheduling Function (MSF). This Scheduling Function describes both the behavior of a node when joining the network and how the communication schedule is managed in a distributed fashion. MSF is built upon the 6TiSCH Operation Sublayer Protocol (6P) and the minimal security framework for 6TiSCH.}
+      \field{howpublished}{RFC 9033}
+      \field{month}{5}
+      \field{number}{9033}
+      \field{pagetotal}{20}
+      \field{series}{Request for Comments}
+      \field{title}{{6TiSCH Minimal Scheduling Function (MSF)}}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.17487/RFC9033
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc9033
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc9033
+      \endverb
+    \endentry
+    \entry{SAXHashing}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=640bea46f6b77be2da912f2f8c7014f4}{%
+           family={Ramakrishna},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=fec3a08fc98ee9b65f31e424408ed08f}{%
+           family={Zobel},
+           familyi={Z\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3bd9a4708270b3f5acee8de2b435ae7}
+      \strng{fullhash}{c3bd9a4708270b3f5acee8de2b435ae7}
+      \strng{bibnamehash}{c3bd9a4708270b3f5acee8de2b435ae7}
+      \strng{authorbibnamehash}{c3bd9a4708270b3f5acee8de2b435ae7}
+      \strng{authornamehash}{c3bd9a4708270b3f5acee8de2b435ae7}
+      \strng{authorfullhash}{c3bd9a4708270b3f5acee8de2b435ae7}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract String hashing is a fundamental operation, used in countless applications where fast access to distinct strings is required. In this paper we describe a class of string hashing functions and explore its performance. In particular, using experiments with both small sets of keys and a large key set from a text database, we show that it is possible to achieve performance close to that theoretically predicted for hashing functions. We also consider criteria for choosing a hashing function and use them to compare our class of functions to other methods for string hashing. These results show that our class of hashing functions is reliable and efficient and is therefore an appropriate choice for general-purpose hashing.}
+      \field{booktitle}{Database Systems for Advanced Applications '97}
+      \field{title}{Performance in Practice of String Hashing Functions}
+      \field{pages}{215\bibrangedash 223}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1142/9789812819536_0023
+      \endverb
+      \verb{eprint}
+      \verb https://www.worldscientific.com/doi/pdf/10.1142/9789812819536_0023
+      \endverb
+      \verb{urlraw}
+      \verb https://www.worldscientific.com/doi/abs/10.1142/9789812819536_0023
+      \endverb
+      \verb{url}
+      \verb https://www.worldscientific.com/doi/abs/10.1142/9789812819536_0023
+      \endverb
+    \endentry
+    \entry{MSFPerformanceEvaluation}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=a2d991075340d14294495f5d03d8324a}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Tengfei},
+           giveni={T\bibinitperiod}}}%
+        {{hash=52f9b22da9976e0b2d75b259a50f8f1f}{%
+           family={Vučinić},
+           familyi={V\bibinitperiod},
+           given={Mališa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12485a5b0eb36d67cbfe5ba01782f7d7}{%
+           family={Guillén},
+           familyi={G\bibinitperiod},
+           given={Xavier\bibnamedelima V.},
+           giveni={X\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f04ef07c5422bcaaa6f1fbcf9b8171f}
+      \strng{fullhash}{4f04ef07c5422bcaaa6f1fbcf9b8171f}
+      \strng{bibnamehash}{4f04ef07c5422bcaaa6f1fbcf9b8171f}
+      \strng{authorbibnamehash}{4f04ef07c5422bcaaa6f1fbcf9b8171f}
+      \strng{authornamehash}{4f04ef07c5422bcaaa6f1fbcf9b8171f}
+      \strng{authorfullhash}{4f04ef07c5422bcaaa6f1fbcf9b8171f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Internet Technology Letters}
+      \field{month}{6}
+      \field{note}{Visited on 12th March 2021}
+      \field{title}{6TiSCH Minimal Scheduling Function: Performance Evaluation}
+      \field{volume}{3}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1002/itl2.170
+      \endverb
+    \endentry
+    \entry{IMSF}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4ef8ba8d53a8e60cc1e7f3f715d4645c}{%
+           family={Karnish},
+           familyi={K\bibinitperiod},
+           given={Manas\bibnamedelima Khatua},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9ac8e247ec3a7aefec349086fee22d43}{%
+           family={Tamarapalli},
+           familyi={T\bibinitperiod},
+           given={Venkatesh},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{539ef967fb02639c51063eb7ee1f6179}
+      \strng{fullhash}{539ef967fb02639c51063eb7ee1f6179}
+      \strng{bibnamehash}{539ef967fb02639c51063eb7ee1f6179}
+      \strng{authorbibnamehash}{539ef967fb02639c51063eb7ee1f6179}
+      \strng{authornamehash}{539ef967fb02639c51063eb7ee1f6179}
+      \strng{authorfullhash}{539ef967fb02639c51063eb7ee1f6179}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the International Conference on Distributed Computing and Networking (ICDCN)}
+      \field{month}{1}
+      \field{title}{IMSF: Improved Minimal Scheduling Function for Link Scheduling in 6TiSCH Networks}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1145/3491003.3491027
+      \endverb
+    \endentry
+    \entry{PushingMSFToTheLimits}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=52902f3a50e1a735f1f1a560de677570}{%
+           family={Hauweele},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c27b90db215a7ab7772503a419d8b575}{%
+           family={Koutsiamanis},
+           familyi={K\bibinitperiod},
+           given={Remous-Aris},
+           giveni={R\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=1a824f8cd2ea11fb196ecf7a255cd6bc}{%
+           family={Quoitin},
+           familyi={Q\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{fullhash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{bibnamehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{authorbibnamehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{authornamehash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \strng{authorfullhash}{a672c9b8b217312b1e05c42b1d8b1aa4}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HAL (Le Centre pour la Communication Scientifique Directe)}
+      \field{month}{7}
+      \field{note}{Visited on 16th October 2023}
+      \field{title}{Pushing 6TiSCH Minimal Scheduling Function (MSF) to the Limits}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1109/iscc50000.2020.9219692
+      \endverb
+    \endentry
+    \entry{Simulating6TiSCHNetworks}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=2a72f1cc4e0b5faf55bff70ba60c8572}{%
+           family={Municio},
+           familyi={M\bibinitperiod},
+           given={Esteban},
+           giveni={E\bibinitperiod}}}%
+        {{hash=893e48c08ef74334cce2d65c34306581}{%
+           family={Daneels},
+           familyi={D\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2b9aee954063011cebf4b2e6ac72d5ba}{%
+           family={Vučinić},
+           familyi={V\bibinitperiod},
+           given={Marijana},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{07b7568477790effdb41f647f57e3bff}
+      \strng{fullhash}{07b7568477790effdb41f647f57e3bff}
+      \strng{bibnamehash}{07b7568477790effdb41f647f57e3bff}
+      \strng{authorbibnamehash}{07b7568477790effdb41f647f57e3bff}
+      \strng{authornamehash}{07b7568477790effdb41f647f57e3bff}
+      \strng{authorfullhash}{07b7568477790effdb41f647f57e3bff}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions on Emerging Telecommunications Technologies}
+      \field{month}{3}
+      \field{note}{Visited on 23rd April 2023}
+      \field{title}{Simulating 6TiSCH networks}
+      \field{volume}{30}
+      \field{year}{2019}
+      \field{pages}{e3494\bibrangedash e3494}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/ett.3494
+      \endverb
+    \endentry
+    \entry{ExperimentalEvaluationOf6topForIoT}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=060f7f56996b673e427075f29d04e777}{%
+           family={Righetti},
+           familyi={R\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f50c0b650541e0ba52090963c9df5015}{%
+           family={Vallati},
+           familyi={V\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1e2f834dd78f24283896bf89c1fe005b}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Sajal\bibnamedelimb K.\bibnamedelimi Das},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffeab0aa5d1cdbb5ba7d8e385affb6d9}
+      \strng{fullhash}{ffeab0aa5d1cdbb5ba7d8e385affb6d9}
+      \strng{bibnamehash}{ffeab0aa5d1cdbb5ba7d8e385affb6d9}
+      \strng{authorbibnamehash}{ffeab0aa5d1cdbb5ba7d8e385affb6d9}
+      \strng{authornamehash}{ffeab0aa5d1cdbb5ba7d8e385affb6d9}
+      \strng{authorfullhash}{ffeab0aa5d1cdbb5ba7d8e385affb6d9}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Symposium on Computers and Communications (ISCC)}
+      \field{title}{An Experimental Evaluation of the 6top Protocol for Industrial IoT Applications}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ISCC47284.2019.8969590
+      \endverb
+    \endentry
+    \entry{OTFFor6TiSCH}{article}{}
+      \name{author}{8}{}{%
+        {{hash=83e1c87e2302a61baafe57d965d78487}{%
+           family={Palattella},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima Rita},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=11301474a5d5a25814d36750eff6f8f9}{%
+           family={Watteyne},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dbb923b2eb3740d28592b75b64ac32c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=4cf39a013ccfcd3041a39b022fc90b31}{%
+           family={Muraoka},
+           familyi={M\bibinitperiod},
+           given={Kazushi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7c5a3c7d1afc004e9c043480a9fe7c3e}{%
+           family={Accettura},
+           familyi={A\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a387bdc517b134618244496f55f6bdff}{%
+           family={Dujovne},
+           familyi={D\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+        {{hash=332766f76a8f8c5871a4e8b6768b6f5d}{%
+           family={Grieco},
+           familyi={G\bibinitperiod},
+           given={Luigi\bibnamedelima Alfredo},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=36282e29e42fcc162832ff91eb9a945d}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd2c2e6669255fb5811da4d4fa3aa4cf}
+      \strng{fullhash}{bcfc9575d3fad245b55ed050c03c0ce1}
+      \strng{bibnamehash}{bd2c2e6669255fb5811da4d4fa3aa4cf}
+      \strng{authorbibnamehash}{bd2c2e6669255fb5811da4d4fa3aa4cf}
+      \strng{authornamehash}{bd2c2e6669255fb5811da4d4fa3aa4cf}
+      \strng{authorfullhash}{bcfc9575d3fad245b55ed050c03c0ce1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{number}{2}
+      \field{title}{On-the-Fly Bandwidth Reservation for 6TiSCH Wireless Industrial Networks}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{550\bibrangedash 560}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/JSEN.2015.2480886
+      \endverb
+      \keyw{Sensors;Bandwidth;Schedules;Resource management;Monitoring;Protocols;Wireless sensor networks;IEEE802.15.4e Sensor Networks;Timeslotted Channel Hopping;6TiSCH Architecture;6top;On-The-Fly (OTF) Bandwidth Reservation;IEEE802.15.4e sensor networks;timeslotted channel hopping;6TiSCH architecture;6top;On-the-fly (OTF) bandwidth reservation}
+    \endentry
+    \entry{PIDBasedScheduling}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ccf15ff7ad78c27621205a3d7844476d}{%
+           family={Marc\bibnamedelima Domingo-Prieto},
+           familyi={M\bibinitperiod\bibinitdelim D\bibinithyphendelim P\bibinitperiod},
+           given={Xavier\bibnamedelimb Vilajosana\bibnamedelimb et\bibnamedelima al.},
+           giveni={X\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Tengfei\bibnamedelima Chang},
+           suffixi={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccf15ff7ad78c27621205a3d7844476d}
+      \strng{fullhash}{ccf15ff7ad78c27621205a3d7844476d}
+      \strng{bibnamehash}{ccf15ff7ad78c27621205a3d7844476d}
+      \strng{authorbibnamehash}{ccf15ff7ad78c27621205a3d7844476d}
+      \strng{authornamehash}{ccf15ff7ad78c27621205a3d7844476d}
+      \strng{authorfullhash}{ccf15ff7ad78c27621205a3d7844476d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Letters}
+      \field{number}{5}
+      \field{title}{Distributed PID-Based Scheduling for 6TiSCH Networks}
+      \field{volume}{20}
+      \field{year}{2016}
+      \field{pages}{1006\bibrangedash 1009}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/lcomm.2016.2546880
+      \endverb
+    \endentry
+    \entry{DecentralizedBroadcastBasedScheduling}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2a72f1cc4e0b5faf55bff70ba60c8572}{%
+           family={Municio},
+           familyi={M\bibinitperiod},
+           given={Esteban},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a90fcfbdb93c8d5f74e60a16b052576e}{%
+           family={Latré},
+           familyi={L\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York City, New York}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{ce82c2d7790d6330aaa0eb34bfd28315}
+      \strng{fullhash}{ce82c2d7790d6330aaa0eb34bfd28315}
+      \strng{bibnamehash}{ce82c2d7790d6330aaa0eb34bfd28315}
+      \strng{authorbibnamehash}{ce82c2d7790d6330aaa0eb34bfd28315}
+      \strng{authornamehash}{ce82c2d7790d6330aaa0eb34bfd28315}
+      \strng{authorfullhash}{ce82c2d7790d6330aaa0eb34bfd28315}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Workshop on Mobility in the Evolving Internet Architecture}
+      \field{isbn}{9781450342575}
+      \field{series}{MobiArch '16}
+      \field{title}{Decentralized broadcast-based scheduling for dense multi-hop TSCH networks}
+      \field{year}{2016}
+      \field{pages}{19\bibrangedash 24}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2980137.2980143
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2980137.2980143
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2980137.2980143
+      \endverb
+      \keyw{scheduling,WSN,TSCH,IEEE 802.15.4e,6Tisch}
+    \endentry
+    \entry{7254107}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7c5a3c7d1afc004e9c043480a9fe7c3e}{%
+           family={Accettura},
+           familyi={A\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f95319eed0af2e8fe2da84d12055d070}{%
+           family={Vogli},
+           familyi={V\bibinitperiod},
+           given={Elvis},
+           giveni={E\bibinitperiod}}}%
+        {{hash=83e1c87e2302a61baafe57d965d78487}{%
+           family={Palattella},
+           familyi={P\bibinitperiod},
+           given={Maria\bibnamedelima Rita},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=332766f76a8f8c5871a4e8b6768b6f5d}{%
+           family={Grieco},
+           familyi={G\bibinitperiod},
+           given={Luigi\bibnamedelima Alfredo},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=557cf36c44fa5905c3e7c8dfa8f3dc5f}{%
+           family={Boggia},
+           familyi={B\bibinitperiod},
+           given={Gennaro},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a039e155c14ba3cb2fd80df3de11a420}{%
+           family={Dohler},
+           familyi={D\bibinitperiod},
+           given={Mischa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{64158656d93e3fc104112fb3cd4be4fa}
+      \strng{fullhash}{29654ab9a2b27ca2d5e90ba080c8d7bc}
+      \strng{bibnamehash}{64158656d93e3fc104112fb3cd4be4fa}
+      \strng{authorbibnamehash}{64158656d93e3fc104112fb3cd4be4fa}
+      \strng{authornamehash}{64158656d93e3fc104112fb3cd4be4fa}
+      \strng{authorfullhash}{29654ab9a2b27ca2d5e90ba080c8d7bc}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Internet of Things Journal}
+      \field{number}{6}
+      \field{title}{Decentralized Traffic Aware Scheduling in 6TiSCH Networks: Design and Experimental Evaluation}
+      \field{volume}{2}
+      \field{year}{2015}
+      \field{pages}{455\bibrangedash 470}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/JIOT.2015.2476915
+      \endverb
+      \keyw{Schedules;Protocols;Standards;IP networks;Reliability;Network topology;Wireless communication;6TiSCH;IEEE 802.15.4e;scheduling algorithms;Timeslotted Channel Hopping;IEEE 802.15.4e;scheduling algorithms;6TiSCH;timeslotted channel hopping (TSCH)}
+    \endentry
+    \entry{Palattella2012}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=e7699c5adf2bdcd78b803a2e98cb2017}{%
+           family={Palattella},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=54ede0f818e9ce5a2921dd76d2bb71d2}{%
+           family={Accettura},
+           familyi={A\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9d7ea41f47225bc12f961daf6529d2ad}{%
+           family={Dohler},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bfc845c4f8771a089f34f63513cb9b59}{%
+           family={Grieco},
+           familyi={G\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=64af0b37573d92c2343fd93d509138cc}{%
+           family={Boggia},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{59f2df9b6852e6c1b2117dae8a715c3d}
+      \strng{fullhash}{ca7fc9b750310db74d4e8e8c736ad89a}
+      \strng{bibnamehash}{59f2df9b6852e6c1b2117dae8a715c3d}
+      \strng{authorbibnamehash}{59f2df9b6852e6c1b2117dae8a715c3d}
+      \strng{authornamehash}{59f2df9b6852e6c1b2117dae8a715c3d}
+      \strng{authorfullhash}{ca7fc9b750310db74d4e8e8c736ad89a}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE 23rd Int. Symp. Pers. Indoor Mobile Radio Commun. (PIMRC)}
+      \field{month}{9}
+      \field{title}{Traffic aware scheduling algorithm for reliable low-power multi-hop IEEE 802.15.4e networks}
+      \field{year}{2012}
+      \field{pages}{327\bibrangedash 332}
+      \range{pages}{6}
+    \endentry
+    \entry{Watteyne2012}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4c062a8e517469fdc8fa60a9041feefb}{%
+           family={Watteyne},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{66b06ae9dd11631a7f60092463b06536}
+      \strng{fullhash}{66b06ae9dd11631a7f60092463b06536}
+      \strng{bibnamehash}{66b06ae9dd11631a7f60092463b06536}
+      \strng{authorbibnamehash}{66b06ae9dd11631a7f60092463b06536}
+      \strng{authornamehash}{66b06ae9dd11631a7f60092463b06536}
+      \strng{authorfullhash}{66b06ae9dd11631a7f60092463b06536}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trans. Emerg. Telecommun. Technol.}
+      \field{number}{5}
+      \field{title}{OpenWSN: A standards-based low-power wireless development environment}
+      \field{volume}{23}
+      \field{year}{2012}
+      \field{pages}{48093}
+      \range{pages}{1}
+    \endentry
+    \entry{Tasixptransactiontime}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72df2b29181afbd17e05c2a731bdb82d}{%
+           family={Shudrenko},
+           familyi={S\bibinitperiod},
+           given={Yevhenii},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fd4ae29b1a268c4b13fed66b549a2aad}{%
+           family={Timm-Giel},
+           familyi={T\bibinithyphendelim G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e66157e4411740512e3a7f30c78488e}
+      \strng{fullhash}{1e66157e4411740512e3a7f30c78488e}
+      \strng{bibnamehash}{1e66157e4411740512e3a7f30c78488e}
+      \strng{authorbibnamehash}{1e66157e4411740512e3a7f30c78488e}
+      \strng{authornamehash}{1e66157e4411740512e3a7f30c78488e}
+      \strng{authorfullhash}{1e66157e4411740512e3a7f30c78488e}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1436-5057}
+      \field{journaltitle}{Computing}
+      \field{number}{9}
+      \field{title}{Modeling end-to-end delays in TSCH wireless sensor networks using queuing theory and combinatorics}
+      \field{volume}{106}
+      \field{year}{2024}
+      \field{pages}{2923\bibrangedash 2947}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/s00607-024-01313-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00607-024-01313-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00607-024-01313-x
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

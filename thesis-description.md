@@ -1,11 +1,11 @@
 # Thesis
 - Student: Benjamin Lih-Hsiang Ko
-- Title: *tbd on Kick-off*
-- Kick-off: *date*
-- Official start: *often same as kick-off*
-- Duration: *longer because of exams etc.?*
-- Submission: *kick-off + duration*
-- Notes: *some additional info, e.g. internation erasmus student*
+- Title: Evaluation of the Cell Allocation Mechanism in 6TiSCH Minimal Scheduling Function for Wireless Sensor Networks
+- Kick-off: 06.01.2025
+- Official start: 17.01.2025
+- Duration: 9 weeks and 4 days
+- Submission: 24.03.2025
+- Notes: Extention of thesis due to hardware problems and exam
 
 ## Background
 *background on the system and theory*

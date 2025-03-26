@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'ba_benjamin_ko.blg'
+[62] biber:322> INFO - === Wed Mar 26, 2025, 04:29:19
+[97] Biber.pm:415> INFO - Reading 'ba_benjamin_ko.bcf'
+[151] Biber.pm:943> INFO - Found 25 citekeys in bib section 0
+[162] Biber.pm:4256> INFO - Processing section 0
+[163] Utils.pm:75> INFO - Globbing data source './library.bib'
+[163] Utils.pm:91> INFO - Globbed data source './library.bib' to ./library.bib
+[176] Biber.pm:4455> INFO - Looking for bibtex format file './library.bib' for section 0
+[179] bibtex.pm:1653> INFO - LaTeX decoding ...
+[218] bibtex.pm:1471> INFO - Found BibTeX data source './library.bib'
+[220] Utils.pm:293> WARN - Duplicate entry key: 'RFC8480' in file './library.bib', skipping ...
+[418] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[419] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[419] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-GB'
+[419] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-GB'
+[444] bbl.pm:652> INFO - Writing 'ba_benjamin_ko.bbl' with encoding 'UTF-8'
+[476] bbl.pm:755> INFO - Output to ba_benjamin_ko.bbl
+[476] Biber.pm:128> INFO - WARNINGS: 1

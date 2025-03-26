@@ -1,0 +1,26 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {british}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 6TiSCH protocol stack defined by RFC9030. \cite {RFC9030}\relax }}{3}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces RPL DODAG showing rang and messages. \cite {rpldodag}\relax }}{5}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Process of two way 6P ADD transaction. \cite {sixp-add-picture}\relax }}{6}{figure.caption.29}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Packet loss in relation to time it takes for the constant traffic network to stabilize.\relax }}{11}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Time of adaptation for each traffic change.\relax }}{12}{figure.caption.37}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Network topology assumed by the model\relax }}{16}{figure.caption.38}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \ac {6P} implementation in Contiki-NG. \cite {sixpImplementationContiki}\relax }}{22}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Experimental setup.\relax }}{23}{figure.caption.41}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Flowchart of parent nodes actions.\relax }}{25}{figure.caption.44}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Flowchart of child nodes actions.\relax }}{26}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Flowchart of network nodes actions.\relax }}{28}{figure.caption.48}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Experimental and analytical results with medium interference.\relax }}{30}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Experimental and analytical results with 10\% network interference.\relax }}{31}{figure.caption.54}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Results of low MAX\_NUM\_CELLS with medium interference.\relax }}{32}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Results of low MAX\_NUM\_CELLS with low interference.\relax }}{33}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Experimental $p_ov$ with MAX\_NUM\_CELLS 100 comparing low and medium network interference.\relax }}{34}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Experimental $p_ov$ with MAX\_NUM\_CELLS 50 comparing low and medium network interference.\relax }}{35}{figure.caption.61}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
